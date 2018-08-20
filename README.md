@@ -1,4 +1,4 @@
-### KYSCHEDULER 手册
+### README
 
 **Kyligence Scheduler** 是企业级的调度工具，帮助用户管理，监控各种调度任务的执行情况。
 
