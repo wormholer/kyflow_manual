@@ -8,7 +8,7 @@
 * 安装及配置
     * [安装及配置](installation.md)
 * 用户指南
-    * [动作](action.md)
+    * [任务](action.md)
     * [工作流](workflow.md)
     * [任务调度](scheduler.md)
 
