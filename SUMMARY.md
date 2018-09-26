@@ -1,6 +1,6 @@
 # Summary
 
-* Kyligence Scheduler
+* Kyligence Dataflow
   * [README](README.md)
 * 产品简介
     * [概述](overview.md)

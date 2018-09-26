@@ -1,6 +1,6 @@
 ##### REST API 说明
 
-KYSCHEDULER 提供了curl 的REST API ，可以用来创建action，删除action，修改action，查询action等，基于这些API，第三方系统可以与KYSCHEDULER紧密集成。
+DATAFLOW 提供了curl 的REST API ，可以用来创建action，删除action，修改action，查询action等，基于这些API，第三方系统可以与DATAFLOW紧密集成。
 
 **添加 API**
 
